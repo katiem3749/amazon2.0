@@ -25,4 +25,7 @@ Run commands
 
 ### If you see the window below then you are set to build AMAZON 2.0!
 
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+
+
+https://user-images.githubusercontent.com/33966716/183465626-24e819c7-0ed6-4fb8-bc8d-aa3642736919.mp4
+
