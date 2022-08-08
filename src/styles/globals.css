@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.link {
+		@apply cursor-pointer hover:underline;
+	}
+
+	.button {
+		@apply p-2 text-xs md:text-sm bg-gradient-to-b from-yellow-200 to-yellow-400 border border-yellow-300 rounded-sm focus:outline-none focus:ring-2 focus:ring-yellow-400 active:from-yellow-400;
+	}
+
+	.product-img {
+		@apply: hover: transform translate-y(-5px);
+	}
+
+	.orderedProduct {
+		@apply cursor-pointer text-sm text-center text-black rounded-md border border-gray-300 px-10 py-1 my-2 hover:bg-gray-200;
+	}
+}
